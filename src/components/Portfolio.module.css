@@ -1,0 +1,20 @@
+.portfoliocontainer{
+ display: flex;
+ flex-direction: column;
+ width: 309; 
+ height: 655;
+}
+.portfolioimg{
+    width: 289 ;
+    height: 108;
+}
+.portfolioParacontainer{
+  
+    width: 289 ;
+    height: 108;
+    background-color: red;
+    word-wrap: break-word;
+
+
+
+}

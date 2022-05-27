@@ -1,0 +1,6 @@
+.portfoliocontainer{
+    display: flex;
+    flex-direction: column;
+    width: 309; 
+    height: 655;
+   }
